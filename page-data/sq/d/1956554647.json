@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"리액트_#2","categories":"react"},"fields":{"slug":"/react/t2/"}}},{"node":{"frontmatter":{"title":"리액트_#1","categories":"react"},"fields":{"slug":"/react/t1/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"리액트_#1","categories":"react"},"fields":{"slug":"/react/t1/"}}},{"node":{"frontmatter":{"title":"리액트_#2","categories":"react"},"fields":{"slug":"/react/t2/"}}}]}}}
